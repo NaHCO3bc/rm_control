@@ -32,7 +32,7 @@
                 <visual name='visual'>
                     <geometry>
                         <mesh>
-                            <uri>model://rm_gazebo/worlds/place/place.dae</uri>
+                            <uri>model://rm_gazebo/worlds/rmuc.stl</uri>
                             <scale>0.001 0.001 0.001</scale>
                         </mesh>
                     </geometry>
@@ -40,7 +40,7 @@
                 <collision name='collision'>
                     <geometry>
                         <mesh>
-                            <uri>model://rm_gazebo/worlds/place/place.dae</uri>
+                            <uri>model://rm_gazebo/worlds/rmuc.stl</uri>
                             <scale>0.001 0.001 0.001</scale>
                         </mesh>
                     </geometry>
